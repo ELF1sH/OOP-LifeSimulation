@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OOP-LifeSimulation/1.0.0": {
+        "runtime": {
+          "OOP-LifeSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP-LifeSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
